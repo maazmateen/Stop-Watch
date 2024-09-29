@@ -2,6 +2,8 @@
 let secTime = document.querySelector("#sec")
 let mintTime = document.querySelector("#mint")
 let hoursTime = document.querySelector("#hours")
+
+
 const start = document.querySelector(".start")
 const stop = document.querySelector(".stop")
 const reset = document.querySelector(".reset")
